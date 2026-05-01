@@ -1,0 +1,9 @@
+tkinter
+Pillow
+pyttsx3
+SpeechRecognition
+pyautogui
+selenium
+googletrans==4.0.0-rc1
+opencv-python
+pyaudio
